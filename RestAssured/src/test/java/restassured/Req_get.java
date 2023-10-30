@@ -24,6 +24,7 @@ public class Req_get
 		System.out.println(res.getHeader("server"));
 		//respose time
 		System.out.println(res.getTime());
+		//get respose time
 		
 		
 	}

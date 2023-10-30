@@ -23,6 +23,8 @@ public class json_parsing
 		JsonPath js=new JsonPath(value);
 		
 		String value1 = js.getString("data[0].email");
+		//to prinnt respose
+	
 		
 		System.out.println(value1);
 		
