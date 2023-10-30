@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T11:15:49Z" name="Suite" finished-at="2023-10-26T11:15:50Z" duration-ms="1702">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T11:15:49Z" name="Test" finished-at="2023-10-26T11:15:50Z" duration-ms="1702">
+      <class name="spec_biulder.Runner">
+        <test-method signature="test()[pri:0, instance:spec_biulder.Runner@40f70521]" started-at="2023-10-26T16:45:49Z" name="test" finished-at="2023-10-26T16:45:50Z" duration-ms="1634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- spec_biulder.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
